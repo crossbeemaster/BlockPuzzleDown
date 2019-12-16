@@ -1,87 +1,64 @@
-1. 개인정보의 처리 목적 (‘Crossbee.com’이하 ‘Crossbee’) 은(는) 다음의 목적을 위하여 개인정보를 처리하고 있으며, 다음의 목적 이외의 용도로는 이용하지 않습니다.
-- 고객 가입의사 확인, 고객에 대한 서비스 제공에 따른 본인 식별.인증, 회원자격 유지.관리, 물품 또는 서비스 공급에 따른 금액 결제, 물품 또는 서비스의 공급.배송 등
+## Privacy Policy
 
+Crossbee built the BlockPuzzleDown app as an Ad Supported app. This SERVICE is provided by Crossbee at no cost and is intended for use as is.
 
-2. 개인정보의 처리 및 보유 기간
+This page is used to inform visitors regarding our policies with the collection, use, and disclosure of Personal Information if anyone decided to use our Service.
 
-① (‘Crossbee.com’이하 ‘Crossbee’) 은(는) 정보주체로부터 개인정보를 수집할 때 동의 받은 개인정보 보유․이용기간 또는 법령에 따른 개인정보 보유․이용기간 내에서 개인정보를 처리․보유합니다.
+If you choose to use our Service, then you agree to the collection and use of information in relation to this policy. The Personal Information that we collect is used for providing and improving the Service. We will not use or share your information with anyone except as described in this Privacy Policy.
 
-② 구체적인 개인정보 처리 및 보유 기간은 다음과 같습니다.
-☞ 아래 예시를 참고하여 개인정보 처리업무와 개인정보 처리업무에 대한 보유기간 및 관련 법령, 근거 등을 기재합니다.
-(예시)- 고객 가입 및 관리 : 서비스 이용계약 또는 회원가입 해지시까지, 다만 채권․채무관계 잔존시에는 해당 채권․채무관계 정산시까지
-- 전자상거래에서의 계약․청약철회, 대금결제, 재화 등 공급기록 : 5년
+The terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, which is accessible at BlockPuzzleDown unless otherwise defined in this Privacy Policy.
 
+**Information Collection and Use**
 
+For a better experience, while using our Service, we may require you to provide us with certain personally identifiable information. The information that we request will be retained by us and used as described in this privacy policy.
 
-3. 정보주체와 법정대리인의 권리·의무 및 그 행사방법 이용자는 개인정보주체로써 다음과 같은 권리를 행사할 수 있습니다.
+The app does use third party services that may collect information used to identify you.
 
-① 정보주체는 Crossbee(‘Crossbee.com’이하 ‘Crossbee) 에 대해 언제든지 다음 각 호의 개인정보 보호 관련 권리를 행사할 수 있습니다.
-1. 개인정보 열람요구
-2. 오류 등이 있을 경우 정정 요구
-3. 삭제요구
-4. 처리정지 요구
+Link to privacy policy of third party service providers used by the app
 
+*   [Google Play Services](https://www.google.com/policies/privacy/)
+*   [AdMob](https://support.google.com/admob/answer/6128543?hl=en)
+*   [Firebase Analytics](https://firebase.google.com/policies/analytics)
 
+**Log Data**
 
-4. 처리하는 개인정보의 항목 작성
+We want to inform you that whenever you use our Service, in a case of an error in the app we collect data and information (through third party products) on your phone called Log Data. This Log Data may include information such as your device Internet Protocol (“IP”) address, device name, operating system version, the configuration of the app when utilizing our Service, the time and date of your use of the Service, and other statistics.
 
-① ('Crossbee.com'이하 'Crossbee')은(는) 다음의 개인정보 항목을 처리하고 있습니다.
+**Cookies**
 
-1
-- 필수항목 : 이메일
-- 선택항목 : 이메일
+Cookies are files with a small amount of data that are commonly used as anonymous unique identifiers. These are sent to your browser from the websites that you visit and are stored on your device's internal memory.
 
+This Service does not use these “cookies” explicitly. However, the app may use third party code and libraries that use “cookies” to collect information and improve their services. You have the option to either accept or refuse these cookies and know when a cookie is being sent to your device. If you choose to refuse our cookies, you may not be able to use some portions of this Service.
 
+**Service Providers**
 
+We may employ third-party companies and individuals due to the following reasons:
 
-5. 개인정보의 파기('Crossbee')은(는) 원칙적으로 개인정보 처리목적이 달성된 경우에는 지체없이 해당 개인정보를 파기합니다. 파기의 절차, 기한 및 방법은 다음과 같습니다.
+*   To facilitate our Service;
+*   To provide the Service on our behalf;
+*   To perform Service-related services; or
+*   To assist us in analyzing how our Service is used.
 
--파기절차
-이용자가 입력한 정보는 목적 달성 후 별도의 DB에 옮겨져(종이의 경우 별도의 서류) 내부 방침 및 기타 관련 법령에 따라 일정기간 저장된 후 혹은 즉시 파기됩니다. 이 때, DB로 옮겨진 개인정보는 법률에 의한 경우가 아니고서는 다른 목적으로 이용되지 않습니다.
+We want to inform users of this Service that these third parties have access to your Personal Information. The reason is to perform the tasks assigned to them on our behalf. However, they are obligated not to disclose or use the information for any other purpose.
 
--파기기한
-이용자의 개인정보는 개인정보의 보유기간이 경과된 경우에는 보유기간의 종료일로부터 5일 이내에, 개인정보의 처리 목적 달성, 해당 서비스의 폐지, 사업의 종료 등 그 개인정보가 불필요하게 되었을 때에는 개인정보의 처리가 불필요한 것으로 인정되는 날로부터 5일 이내에 그 개인정보를 파기합니다.
+**Security**
 
+We value your trust in providing us your Personal Information, thus we are striving to use commercially acceptable means of protecting it. But remember that no method of transmission over the internet, or method of electronic storage is 100% secure and reliable, and we cannot guarantee its absolute security.
 
+**Links to Other Sites**
 
-6. 개인정보 자동 수집 장치의 설치•운영 및 거부에 관한 사항
+This Service may contain links to other sites. If you click on a third-party link, you will be directed to that site. Note that these external sites are not operated by us. Therefore, we strongly advise you to review the Privacy Policy of these websites. We have no control over and assume no responsibility for the content, privacy policies, or practices of any third-party sites or services.
 
-Crossbee 은 정보주체의 이용정보를 저장하고 수시로 불러오는 ‘쿠키’를 사용하지 않습니다.
+**Children’s Privacy**
 
+These Services do not address anyone under the age of 13. We do not knowingly collect personally identifiable information from children under 13\. In the case we discover that a child under 13 has provided us with personal information, we immediately delete this from our servers. If you are a parent or guardian and you are aware that your child has provided us with personal information, please contact us so that we will be able to do necessary actions.
 
-7. 개인정보 보호책임자 작성
+**Changes to This Privacy Policy**
 
+We may update our Privacy Policy from time to time. Thus, you are advised to review this page periodically for any changes. We will notify you of any changes by posting the new Privacy Policy on this page. These changes are effective immediately after they are posted on this page.
 
-① Crossbee(‘Crossbee.com’이하 ‘Crossbee) 은(는) 개인정보 처리에 관한 업무를 총괄해서 책임지고, 개인정보 처리와 관련한 정보주체의 불만처리 및 피해구제 등을 위하여 아래와 같이 개인정보 보호책임자를 지정하고 있습니다.
+**Contact Us**
 
-▶ 개인정보 보호책임자
-성명 :하성출
-직책 :대표
-직급 :대표
-연락처 :010-4912-1804, crossbeemaster@gmail.com,
-※ 개인정보 보호 담당부서로 연결됩니다.
+If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact us at crossbeemaster@gmail.com.
 
-▶ 개인정보 보호 담당부서
-부서명 :경영
-담당자 :하성출
-연락처 :010-4912-1804, crossbeemaster@gmail.com,
-② 정보주체께서는 Crossbee(‘Crossbee.com’이하 ‘Crossbee) 의 서비스(또는 사업)을 이용하시면서 발생한 모든 개인정보 보호 관련 문의, 불만처리, 피해구제 등에 관한 사항을 개인정보 보호책임자 및 담당부서로 문의하실 수 있습니다. Crossbee(‘Crossbee.com’이하 ‘Crossbee) 은(는) 정보주체의 문의에 대해 지체 없이 답변 및 처리해드릴 것입니다.
-
-
-
-8. 개인정보 처리방침 변경
-
-①이 개인정보처리방침은 시행일로부터 적용되며, 법령 및 방침에 따른 변경내용의 추가, 삭제 및 정정이 있는 경우에는 변경사항의 시행 7일 전부터 공지사항을 통하여 고지할 것입니다.
-
-
-
-9. 개인정보의 안전성 확보 조치 ('Crossbee')은(는) 개인정보보호법 제29조에 따라 다음과 같이 안전성 확보에 필요한 기술적/관리적 및 물리적 조치를 하고 있습니다.
-
-1. 내부관리계획의 수립 및 시행
-개인정보의 안전한 처리를 위하여 내부관리계획을 수립하고 시행하고 있습니다.
-
-2. 개인정보에 대한 접근 제한
-개인정보를 처리하는 데이터베이스시스템에 대한 접근권한의 부여,변경,말소를 통하여 개인정보에 대한 접근통제를 위하여 필요한 조치를 하고 있으며 침입차단시스템을 이용하여 외부로부터의 무단 접근을 통제하고 있습니다.
-
-3. 비인가자에 대한 출입 통제
-개인정보를 보관하고 있는 물리적 보관 장소를 별도로 두고 이에 대해 출입통제 절차를 수립, 운영하고 있습니다.
+This privacy policy page was created at [privacypolicytemplate.net](https://privacypolicytemplate.net) and modified/generated by [App Privacy Policy Generator](https://app-privacy-policy-generator.firebaseapp.com/)
